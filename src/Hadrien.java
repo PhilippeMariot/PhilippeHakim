@@ -9,5 +9,6 @@
  * @author Shadow
  */
 public class Hadrien {
-    
+    public void bidule()
+    {}
 }
