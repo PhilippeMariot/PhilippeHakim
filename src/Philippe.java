@@ -8,5 +8,9 @@
  * @author fcd
  */
 public class Philippe {
+    public void MartinVire(){
     
 }
+}
+    
+
