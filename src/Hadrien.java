@@ -11,4 +11,7 @@
 public class Hadrien {
     public void bidule()
     {}
+    public void HadrienDort(){
+        
+    }
 }
